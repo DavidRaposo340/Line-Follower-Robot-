@@ -17,6 +17,8 @@ Componentes:
 
 -Tracker sensor infrared line
 
+-18650 (para motores) + powerbank (para microcontrolador)
+
 ___________
 
 Modos: (alterados com a app)
