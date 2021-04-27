@@ -23,7 +23,7 @@ ___________
 
 Modos: (alterados com a app)
 
--Manual - usando a app, é possível controlar o robot usando as setas (extra: se houver obstaculo à frente robot para)
+-Manual - usando a app, é possível controlar o robot usando as setas (extra: se houver obstaculo à frente, robot para)
 
 -Seguidor de linha - a partir de array de sensores infravermelhos, o robot segue uma linha preta (3cm). Controlo realizado com PID (PD). Bifurcações são decididas pelo piloto com as setas da app
 
