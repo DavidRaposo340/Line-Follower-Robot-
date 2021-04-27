@@ -3,6 +3,8 @@ Line Follower Robot [SBMI]
 
 https://www.youtube.com/watch?v=MadvVoRH2LQ&t=3s
 
+___________
+
 Componentes: 
 
 -Arduino Uno (ATMega328)
@@ -15,7 +17,7 @@ Componentes:
 
 -Tracker sensor infrared line
 
-
+___________
 
 Modos: (alterados com a app)
 
@@ -25,7 +27,7 @@ Modos: (alterados com a app)
 
 -Seguidor de paredes - brevemente...
 
-
+___________
 
 Todo o código é feito usando os registers do microcontrolador. Não há nenhuma função do Arduino.
 
