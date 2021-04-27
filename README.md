@@ -29,7 +29,7 @@ Modos: (alterados com a app)
 
 ___________
 
-Todo o código é feito usando os registers do microcontrolador. Não há nenhuma função do Arduino.
+Todo o código é feito usando os registers do microcontrolador. Não há nenhuma função Arduino.
 
 Desenvolvido em Visual Studio Code com a extensão PlatformIO (AVR)
 
